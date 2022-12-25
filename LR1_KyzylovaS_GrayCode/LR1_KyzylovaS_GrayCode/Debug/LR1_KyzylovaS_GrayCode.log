@@ -1,0 +1,4 @@
+﻿  LR1_KyzylovaS_GrayCode.cpp
+C:\Users\Sofja\Desktop\VS projects\c++\МОП\LR1\LR1_KyzylovaS_GrayCode\LR1_KyzylovaS_GrayCode\LR1_KyzylovaS_GrayCode.cpp(37,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Sofja\Desktop\VS projects\c++\МОП\LR1\LR1_KyzylovaS_GrayCode\LR1_KyzylovaS_GrayCode\LR1_KyzylovaS_GrayCode.cpp(52,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  LR1_KyzylovaS_GrayCode.vcxproj -> C:\Users\Sofja\Desktop\VS projects\c++\МОП\LR1\LR1_KyzylovaS_GrayCode\Debug\LR1_KyzylovaS_GrayCode.exe
